@@ -1,0 +1,23 @@
+.login {
+    display: flex;
+    flex-direction: column;
+  }
+
+.loginCard {
+    border: solid;
+    padding: 50px;
+    border-radius: 5px;
+    background-color: #333333;
+
+}
+
+input{
+    padding: 5px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+}
+
+button{
+    margin: 5px;
+}
+  
